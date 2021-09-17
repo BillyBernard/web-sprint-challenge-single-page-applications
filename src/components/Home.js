@@ -3,7 +3,7 @@ import {useHistory} from 'react-router-dom';
 import styled from 'styled-components';
 
 const StyledButton = styled.button`
-    color: yellow;
+    color: red;
 `
 
 export default function Home() {
